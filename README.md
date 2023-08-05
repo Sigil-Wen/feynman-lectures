@@ -6,7 +6,7 @@ The objective is to go through each chapter starting with: Volume 1: Mainly Mech
 
 After each chapter, I aim to complete the respective exercises within the Exercises for the Feynman Lectures on Physics to apply my knowledge to problems critically. 
 
-Discussions will be held with fellow autodidacts within our discord server :D https://discord.gg/YjY9JC2j9j (You get roles for each of the chapters you complete :^)
+Discussions will be held with fellow autodidacts within our discord server :D [https://discord.gg/YjY9JC2j9j](https://discord.gg/YjY9JC2j9j) (You get roles for each of the chapters you complete :^)
 
 # Learning Log
 
