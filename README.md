@@ -21,4 +21,8 @@ Discussions will be held with fellow autodidacts within our discord server :D [h
     - We are very much familiar with all the physics outside the nucleus, but inside is where quantum mechanics applies and a lot of interactions between the 30 new particles are still unknown
 - August 4th, 2023 (11:53 PM): Finished Annotating Chapter 3: The Relation of Physics to Other Sciences
     - Light chapter connecting physics w/ chemistry, biology, astrology, etc. with little gold nuggets of Feynman philosophy and humor :D
+- August 5th, 2023 (6:09 PM): Finished Annotating Chapter 4: Conservation of Energy
+    - Questions I have:
+        - Is the energy in the universe fixed?
+        - Since energy is radiated in all directions (1/2 billionth of the photons from the sun hits the earth), most other goes into deep space, and considering 1. The universe has fixed energy + 2. It is expanding; does that mean that over time, the mass in the universe will eventually be converted to electromagnetic radiation eternally dissipating through the empty infinite universe?  
 
