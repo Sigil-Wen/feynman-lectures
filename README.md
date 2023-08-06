@@ -25,4 +25,6 @@ Discussions will be held with fellow autodidacts within our discord server :D [h
     - Questions I have:
         - Is the energy in the universe fixed?
         - Since energy is radiated in all directions (1/2 billionth of the photons from the sun hits the earth), most other goes into deep space, and considering 1. The universe has fixed energy + 2. It is expanding; does that mean that over time, the mass in the universe will eventually be converted to electromagnetic radiation eternally dissipating through the empty infinite universe?  
-
+- August 6th, 2023 (2:30 PM): Finished Annotating Chapter 5: Time and Distance
+  - Carbon Dating and Uranium Dating, how to measure the moon, stars, galaxies, atoms, nuclei - this chapter is quite similar to the first chapters of Max Tegmark's Our Mathematical Universe.
+  - I find it fascinating just how brief a π^0-meason lasts: 10^-16 seconds, yet the strange resonances (particles) last only 10^-24 before disintigrating. That is a 10^8 difference or 100,000,000 ! Literally last instantaneously but one last significiantly less than the other. 
