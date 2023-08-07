@@ -1004,3 +1004,8 @@
 .markdown-body ::-webkit-calendar-picker-indicator {
   filter: invert(50%);
 }
+
+imgcontainer {
+  max-width: 50%;  
+  height: auto;  
+}
