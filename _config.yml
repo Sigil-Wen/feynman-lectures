@@ -8,6 +8,7 @@ url: "http://feynman.study"
 # Build settings
 markdown: kramdown
 theme: minima
+css: github-markdown-light.css
 
 kramdown:
   math_engine: mathjax
