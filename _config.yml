@@ -4,14 +4,10 @@ email: sigil.w3n@gmail.com
 description: Self-Studying The Feynman Lectures on Physics.
 baseurl: "" 
 url: "http://feynman.study"
-twitter_username: 0xSigil
-github_username:  Sigil-Wen
 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 
 kramdown:
   math_engine: mathjax
