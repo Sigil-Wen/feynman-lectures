@@ -33,3 +33,4 @@ Discussions will be held with fellow autodidacts within our discord server :D [h
 - August 7th, 2023 (11:50 PM): Finished Annotating Chapter 6: Probability
     - Got nerdsniped (and nerdsniped a bunch of other kiddos) into a Tennis ball graviation problem I came up with
 
+- Mid August: SF Trip - hiring + birthday :) Reading Tegmark
